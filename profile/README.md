@@ -40,7 +40,7 @@ We invite you to join us on GitHub and become part of the movement to revolution
 
 ### Follow Us
 - **GitHub:** [Safe Station on GitHub](https://github.com/safe-station)
-- **Twitter:** [@SafeStation](https://twitter.com/safe-station) *(@safe-station*
+- **Twitter:** [@SafeStation](https://twitter.com/station_safe) *(@station_safe)*
 - **LinkedIn:** [SafeStation](https://linkedin.com/company/safe-station) *(@safe-station)*
 
 ## Contact
